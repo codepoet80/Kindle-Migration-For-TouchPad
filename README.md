@@ -8,6 +8,8 @@ against Kindle Beta 0.12.50 (`com.palm.app.kindle`) on webOS 3.0.5 (topaz).
 The procedure is fully reversible — nothing in the on-device installation of
 the app is modified.
 
+That said, this was an experiment/investigation. You probably don't want to do this.
+
 ## TL;DR — just run the scripts
 
 If you don't want to read everything, the whole flow is automated in two
