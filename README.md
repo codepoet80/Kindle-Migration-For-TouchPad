@@ -10,6 +10,8 @@ the app is modified.
 
 That said, this was an experiment/investigation. You probably don't want to do this.
 
+Read DRM free books, in the open ePub standard on webOS instead: [https://github.com/codepoet80/webos-papyrus-ereader](https://github.com/codepoet80/webos-papyrus-ereader)
+
 ## TL;DR — just run the scripts
 
 If you don't want to read everything, the whole flow is automated in two
